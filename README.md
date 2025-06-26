@@ -1,27 +1,35 @@
-# Projeto Cadastro de Tarefas
+# Projeto: Cadastro de Tarefas
 
-Aplicação web simples para cadastro de tarefas com backend em Node.js e persistência de dados em MySQL.
+Uma aplicação web prática para registrar e acompanhar tarefas, utilizando Node.js no backend e banco de dados MySQL.
 
-## 🚀 Funcionalidades
+---
 
-- ✅ Cadastro de tarefas
-- ✅ Integração com banco de dados MySQL
-- ✅ Interface HTML responsiva
-- ✅ Controle de status das tarefas
+## ✨ Funcionalidades
 
-## 🛠️ Tecnologias utilizadas
+- 📌 Criar tarefas
+- 🔗 Integração com MySQL
+- 💻 Layout responsivo em HTML
+- 🔄 Atualização de status das tarefas
 
-- Node.js
-- Express
-- Sequelize
-- MySQL
-- HTML + CSS
+---
 
-## 📸 Captura de tela
+## 🛠 Tecnologias utilizadas
 
-![tela](./screenshot.png)
+- Node.js  
+- Express  
+- Sequelize  
+- MySQL  
+- HTML + CSS  
 
-## 🧑‍💻 Como usar
+---
+
+## 🖼 Captura de tela
+
+![tela](./foto.png)
+
+---
+
+## ▶️ Como executar
 
 ```bash
 git clone https://github.com/seuusuario/seurepositorio.git
@@ -30,10 +38,14 @@ npm install
 node backend/server.js
 ```
 
-## 📚 Aprendizados
+---
 
-Este projeto demonstrou como migrar um backend de SQLite para MySQL utilizando Sequelize.
+## 📘 Aprendizados
+
+Durante o projeto, trabalhei na migração de um backend com SQLite para MySQL usando Sequelize, aprofundando meu entendimento sobre bancos de dados relacionais e estrutura de projetos em Node.js.
+
+---
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT.
+Este projeto está disponível sob a licença MIT.
