@@ -25,7 +25,8 @@ Uma aplicação web prática para registrar e acompanhar tarefas, utilizando Nod
 
 ## 🖼 Captura de tela
 
-![tela](./foto.png)
+![tela](https://github.com/user-attachments/assets/b7fe714e-cf7d-49f8-9404-8cffb5af1fc3)
+
 
 ---
 
